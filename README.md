@@ -54,3 +54,17 @@ Sources:
 
 Libraries: Numpy, Statistics
 
+### Task 4: Python nmaxmin module
+
+May 13, 2020
+Implemented nmaxmin module and used both functions of the module in python
+
+Sources:
+* https://github.com/amrs-tech/nmaxmin
+* https://pypi.org/project/nmaxmin/
+* https://www.geeksforgeeks.org/python-nmaxmin-module/
+
+Libraries: nmaxmin
+
+
+

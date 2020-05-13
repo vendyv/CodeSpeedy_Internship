@@ -2,6 +2,8 @@
 
 #### Task 1: Contrastive Loss for Supervised Classification in Machine Learning
 
+May 10, 2020
+
 Implemented contrastive loss function and explained its practical usage.
 
 Sources:
@@ -19,6 +21,8 @@ Libraries: numpy
 
 #### Task 2: ML | VGG-16 Implementation in Keras
 
+May 12, 2020
+
 Worked on implementing VGG-16 model for image classification using the concept of transfer learning.
 
 Sources:
@@ -34,3 +38,19 @@ Sources:
 * https://towardsdatascience.com/vgg-neural-networks-the-next-step-after-alexnet-3f91fa9ffe2c
 
 Libraries: Numpy, Keras, Scipy, Matplotlib
+
+### Task 3: Find variance of a list in python
+
+May 13, 2020
+
+Calculated variance using 3 methods in python. 1 mean -> square differences -> variance
+2. Statistics module 3. Numpy module
+
+Sources:
+
+* https://docs.python.org/3/library/statistics.html
+* https://www.geeksforgeeks.org/python-variance-of-list/
+* https://docs.scipy.org/doc/numpy/reference/generated/numpy.var.html
+
+Libraries: Numpy, Statistics
+

@@ -57,6 +57,7 @@ Libraries: Numpy, Statistics
 ### Task 4: Python nmaxmin module
 
 May 13, 2020
+
 Implemented nmaxmin module and used both functions of the module in python
 
 Sources:

@@ -66,5 +66,18 @@ Sources:
 
 Libraries: nmaxmin
 
+### Task 5: Pair and Triplet iteration in Python List
+
+May 15, 2020
+
+Used list comprehension and zip() function to create iterables of 2 and 3 consecutive elements of a list in python
+
+Sources:
+
+* https://www.geeksforgeeks.org/python-triplet-iteration-in-list/
+* https://www.geeksforgeeks.org/python-pair-iteration-in-list/
+
+Libraries: None
+
 
 

@@ -80,5 +80,18 @@ Sources:
 
 Libraries: None
 
+### Task 6: How to access elements in a pandas series
+
+May 16, 2020
+
+Used .loc, .iloc, .at, .iat attributes of pandas series individually to access elements in a pandas series.
+
+Sources:
+
+* https://pandas.pydata.org/pandas-docs/stable/reference/series.html
+
+Libraries: Pandas
+
+
 
 

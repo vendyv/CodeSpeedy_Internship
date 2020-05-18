@@ -113,8 +113,8 @@ Provided in-depth information about Conv2D class of keras and its parameters use
 
 Sources:
 
-*https://keras.io/api/applications/vgg/#vgg16-function
-*https://keras.io/api/layers/convolution_layers/
+* https://keras.io/api/applications/vgg/#vgg16-function
+* https://keras.io/api/layers/convolution_layers/
 
 Libraries: Keras, Tensorflow
 

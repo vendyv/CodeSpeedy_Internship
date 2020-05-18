@@ -92,6 +92,31 @@ Sources:
 
 Libraries: Pandas
 
+### Task 7: Identifying product bundles from sales data using python machine learning
+
+May 18, 2020
+
+Provided market basket analysis of frequent itemset using apriori algorithm
+
+Sources:
+
+* https://towardsdatascience.com/market-basket-analysis-978ac064d8c6
+* https://woocommerce.com/products/product-bundles/
+
+Libraries: apyori, pandas
+
+### Task 8: Keras Conv2D with examples in Python
+
+May 18, 2020
+
+Provided in-depth information about Conv2D class of keras and its parameters used in constructing a CNN architecture.
+
+Sources:
+
+*https://keras.io/api/applications/vgg/#vgg16-function
+*https://keras.io/api/layers/convolution_layers/
+
+Libraries: Keras, Tensorflow
 
 
 
